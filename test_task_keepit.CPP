@@ -36,7 +36,7 @@ class wordCounter {
   }
 
  private:
-  ifstream file_; //file data container.
+  ifstream file_;
 };
 
 int main(int argc, char* argv[]) {
