@@ -1,0 +1,4 @@
+INPUT: "a dog and a cat"
+
+EXPECTED OUTPUT: "The number of unique words in your file: 4"
+ACTRUAL OUTPUT: "The number of unique words in your file: 4"
